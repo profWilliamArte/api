@@ -1,0 +1,27 @@
+     [
+        {
+            "id" : 1,
+            "estatusId" : 1,
+            "nombre" : "Electrodomésticos"
+        },
+        {
+            "id" : 2,
+            "estatusId" : 1,
+            "nombre" : "Deportes"
+        },
+        {
+            "id" : 3,
+            "estatusId" : 1,
+            "nombre" : "Helados y Postres"
+        },
+        {
+            "id" : 4,
+            "estatusId" : 1,
+            "nombre" : "Papelería"
+        },
+        {
+            "id" : 5,
+            "estatusId" : 1,
+            "nombre" : "Automotriz"
+        }
+    ]
